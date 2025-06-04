@@ -1,5 +1,11 @@
 # Documentacion Proyecto de Ingenieria de Software
 
+## Estructura del proyecto
+aqui mostraremos los graficos que representan el proyecto:
+
+# Diagrama de Clases:
+![just-the-basics](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/diagrama_clases_compras.png)
+
 ```sh
 npm create astro@latest -- --template basics
 ```
