@@ -1,4 +1,4 @@
-# Astro Starter Kit: Basics por grupo de ingenierias
+# Documentacion Proyecto de Ingenieria de Software
 
 ```sh
 npm create astro@latest -- --template basics
