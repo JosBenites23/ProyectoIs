@@ -28,8 +28,10 @@ aqui mostraremos los graficos que representan el proyecto:
 ![ProductModule](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/modulo_producto.png)
 
 ### Casos de uso
-#### puedes ver los diagramas en LucidChart el primero aqui: [![LucidChart](https://cdn-cashy-static-assets.lucidchart.com/lucid/logos/lucidchart.svg)](https://lucid.app/lucidchart/1a160f0c-97d4-407c-bf7b-cce763a17a50/edit?invitationId=inv_34048268-465a-4f7b-8761-a1cb317fd7d3) el segundo aqui: [![LucidChart](https://lucid.app/lucidchart/6339b187-73e0-47e0-ab19-2bcff4a2ec8d/edit?invitationId=inv_1984d9e8-9395-472b-a456-4de593b4ee2c)
+#### puedes ver los diagramas en LucidChart el primero aqui: [![LucidChart](https://cdn-cashy-static-assets.lucidchart.com/lucid/logos/lucidchart.svg)](https://lucid.app/lucidchart/1a160f0c-97d4-407c-bf7b-cce763a17a50/edit?invitationId=inv_34048268-465a-4f7b-8761-a1cb317fd7d3) el segundo aqui: [![LucidChart](https://cdn-cashy-static-assets.lucidchart.com/lucid/logos/lucidchart.svg)](https://lucid.app/lucidchart/6339b187-73e0-47e0-ab19-2bcff4a2ec8d/edit?invitationId=inv_1984d9e8-9395-472b-a456-4de593b4ee2c)
 
+![Case1](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/Diagrama%20de%20caso%20de%20uso1.png)
+![Case2](http://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/Diagrama%20de%20caso%20de%20uso2.png)
 
 ## 🚀 Estructura de carpetas
 
