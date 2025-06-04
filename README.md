@@ -7,7 +7,7 @@ aqui mostraremos los graficos que representan el proyecto:
 ![Arquitecture](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/diagrama_arquitectura.png)
 
 ### Diagrama de Procesos: 
-[![puedes ver el diagrama en LucidChart](https://cdn-cashy-static-assets.lucidchart.com/lucid/logos/lucidchart.svg)](https://lucid.app/lucidchart/4120330b-bb6f-4a15-b8cc-f2b79ba87c6b/edit?viewport_loc=-485%2C133%2C3928%2C1744%2C0_0&invitationId=inv_466f33f0-9960-4705-b27d-acd4a4a368a8)
+puedes ver el diagrama en [![LucidChart](https://cdn-cashy-static-assets.lucidchart.com/lucid/logos/lucidchart.svg)](https://lucid.app/lucidchart/4120330b-bb6f-4a15-b8cc-f2b79ba87c6b/edit?viewport_loc=-485%2C133%2C3928%2C1744%2C0_0&invitationId=inv_466f33f0-9960-4705-b27d-acd4a4a368a8)
 
 ![Proces](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/Proceso%20cliente.png)
 
