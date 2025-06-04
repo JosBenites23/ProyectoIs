@@ -3,6 +3,13 @@
 ## Estructura del proyecto
 aqui mostraremos los graficos que representan el proyecto:
 
+### Diagrama de Procesos: 
+[puedes ver el diagrama aqui](https://lucid.app/lucidchart/4120330b-bb6f-4a15-b8cc-f2b79ba87c6b/edit?viewport_loc=-485%2C133%2C3928%2C1744%2C0_0&invitationId=inv_466f33f0-9960-4705-b27d-acd4a4a368a8)
+
+
+![just-the-basics](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/diagrama_clases_compras.png)
+
+
 ### Diagrama de Clases:
 ![just-the-basics](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/diagrama_clases_compras.png)
 
