@@ -19,7 +19,7 @@ puedes ver el diagrama en [![LucidChart](https://cdn-cashy-static-assets.lucidch
 ![Components](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/diagrama_componentes_compras.png)
 
 ### Diagrama de Despliegue:
-![Deploy](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/diagrama_arquitectura.png)
+![Deploy](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/diagrama_despliegue.png)
 
 ### Modulo del Cliente:
 ![ClientModule](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/modulo_cliente.png)
