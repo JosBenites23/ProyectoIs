@@ -7,7 +7,7 @@ aqui mostraremos los graficos que representan el proyecto:
 ![Arquitecture](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/diagrama_arquitectura.png)
 
 ### Diagrama de Procesos: 
-puedes ver el diagrama en [![LucidChart](https://cdn-cashy-static-assets.lucidchart.com/lucid/logos/lucidchart.svg)](https://lucid.app/lucidchart/4120330b-bb6f-4a15-b8cc-f2b79ba87c6b/edit?viewport_loc=-485%2C133%2C3928%2C1744%2C0_0&invitationId=inv_466f33f0-9960-4705-b27d-acd4a4a368a8)
+#### puedes ver el diagrama en [![LucidChart](https://cdn-cashy-static-assets.lucidchart.com/lucid/logos/lucidchart.svg)](https://lucid.app/lucidchart/4120330b-bb6f-4a15-b8cc-f2b79ba87c6b/edit?viewport_loc=-485%2C133%2C3928%2C1744%2C0_0&invitationId=inv_466f33f0-9960-4705-b27d-acd4a4a368a8)
 
 ![Proces](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/Proceso%20cliente.png)
 
@@ -26,6 +26,10 @@ puedes ver el diagrama en [![LucidChart](https://cdn-cashy-static-assets.lucidch
 
 ### Modulo del Producto:
 ![ProductModule](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/modulo_producto.png)
+
+### Casos de uso
+#### puedes ver los diagramas en LucidChart el primero aqui: [![LucidChart](https://cdn-cashy-static-assets.lucidchart.com/lucid/logos/lucidchart.svg)](https://lucid.app/lucidchart/1a160f0c-97d4-407c-bf7b-cce763a17a50/edit?invitationId=inv_34048268-465a-4f7b-8761-a1cb317fd7d3) el segundo aqui: [![LucidChart](https://lucid.app/lucidchart/6339b187-73e0-47e0-ab19-2bcff4a2ec8d/edit?invitationId=inv_1984d9e8-9395-472b-a456-4de593b4ee2c)
+
 
 ## 🚀 Estructura de carpetas
 
