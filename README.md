@@ -28,13 +28,13 @@ aqui mostraremos los graficos que representan el proyecto:
 ![ProductModule](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/modulo_producto.png)
 
 ### Casos de uso
-#### puedes ver los diagramas en LucidChart el primero aqui: [![LucidChart](https://cdn-cashy-static-assets.lucidchart.com/lucid/logos/lucidchart.svg)](https://lucid.app/lucidchart/1a160f0c-97d4-407c-bf7b-cce763a17a50/edit?viewport_loc=-596%2C-82%2C2946%2C1308%2C.Q4MUjXso07N&invitationId=inv_34048268-465a-4f7b-8761-a1cb317fd7d3) el segundo aqui: [![LucidChart](https://cdn-cashy-static-assets.lucidchart.com/lucid/logos/lucidchart.svg)](https://lucid.app/lucidchart/6339b187-73e0-47e0-ab19-2bcff4a2ec8d/edit?invitationId=inv_1984d9e8-9395-472b-a456-4de593b4ee2c)
+#### puedes ver los diagramas en LucidChart el primero aqui: [![LucidChart](https://cdn-cashy-static-assets.lucidchart.com/lucid/logos/lucidchart.svg)](https://lucid.app/lucidchart/1a160f0c-97d4-407c-bf7b-cce763a17a50/edit?viewport_loc=-596%2C-82%2C2946%2C1308%2C.Q4MUjXso07N&invitationId=inv_34048268-465a-4f7b-8761-a1cb317fd7d3) el segundo aqui: [![LucidChart](https://cdn-cashy-static-assets.lucidchart.com/lucid/logos/lucidchart.svg)](https://lucid.app/lucidchart/6339b187-73e0-47e0-ab19-2bcff4a2ec8d/edit?viewport_loc=-211%2C13%2C1964%2C872%2C.Q4MUjXso07N&invitationId=inv_1984d9e8-9395-472b-a456-4de593b4ee2c)
 
 caso 1:
 ![Case1](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/Diagrama%20de%20caso%20de%20uso.png)
 
 caso 2:
-![Case2](http://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/Diagrama%20de%20caso%20de%20uso2.png)
+![Case2](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/Diagrama%20de%20caso%20de%20uso%20(1).png)
 
 #### Documentacion de los Casos de Uso:
 [Puedes ver la documentacion de los casos de uso aqui: ](https://docs.google.com/document/d/1OJ_3gKjKhFcdJ-JPGbnOVIQPWgkNZEAAN460cTcZDJU/edit?usp=sharing)
