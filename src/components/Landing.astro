@@ -1,11 +1,47 @@
-<section>
-    <header>
+<section class="flex flex-col">
+    <header class="flex items-center justify-between bg-gray-800 text-white p-4">
+        <h1 class="text-xl font-bold">Market Delivery</h1>
         <nav>
-            <ul>
+            <ul class="flex space-x-4 items-center">
                 <li><a href="/">Home</a></li>
                 <li><a href="/about">About</a></li>
                 <li><a href="/contact">Contact</a></li>
+                <li>
+                    <input type="text" placeholder="Buscar productos..." class="p-2 rounded border-2 border-white min-w-48" />
+                </li>
             </ul>
         </nav>
     </header>
+
+    <div class="flex flex-1 min-h-screen">
+        <aside class="bg-gray-200 w-64 p-4">
+            <h2 class="text-lg font-bold mb-4">Categorías</h2>
+            <nav>
+                <ul class="space-y-2 pl-2 [&>li>a]:hover:bg-gray-400 [&>li>a]:transition [&>li>a]:duration-200 [&>li>a]:rounded-xl [&>li>a]:px-4 [&>li>a]:py-2 [&>li]:mb-5 ">
+                    <li><a href="/">Abarrotes</a></li>
+                    <li><a href="/">Alacena</a></li>
+                    <li><a href="/">Congelados</a></li>
+                    <li><a href="/">Frescos</a></li>
+                    <li><a href="/">Bebidas</a></li>
+                    <li><a href="/">Automotriz</a></li>
+                </ul>
+            </nav>
+        </aside>
+
+        <main class="flex flex-col bg-white px-5 py-4">
+            <h1 class="text-3xl font-bold text-gray-800">poductos</h1>
+            <nav class="mt-4">
+                <ul class="space-y-2 pl-2 flex [&>li]:mt-20 [&>li]: mr-5 [&>li>a]:px-20 [&>li>a]:py-20 [&>li>a]:bg-gray-300 [&>li>a]:rounded-lg">
+                    <li><a href="/product/1">Producto 1</a></li>
+                    <li><a href="/product/2">Producto 2</a></li>
+                    <li><a href="/product/3">Producto 3</a></li>
+                    <!-- <li><a href="/product/4">Producto 4</a></li>
+                    <li><a href="/product/5">Producto 5</a></li>
+                    <li><a href="/product/6">Producto 6</a></li>
+                    <li><a href="/product/7">Producto 7</a></li> -->
+
+                </ul>
+            </nav>
+        </main>
+    </div>
 </section>
