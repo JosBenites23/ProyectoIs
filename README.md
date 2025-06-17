@@ -26,10 +26,10 @@ caso 2:
 [Puedes ver la documentacion de los casos de uso aqui: ](https://docs.google.com/document/d/1OJ_3gKjKhFcdJ-JPGbnOVIQPWgkNZEAAN460cTcZDJU/edit?usp=sharing)
 
 ### Diagrama de Clases:
-![Clases](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/diagrama_clases_compras.png)
+![Clases](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/Diagrama_Clases_new.png)
 
 ### Diagrama de Componentes:
-![Components](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/diagrama_componentes_compras.png)
+![Components](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/Diagrama_Componentes_new.png)
 
 ### Diagrama de Despliegue:
 ![Deploy](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/diagrama_despliegue.png)
