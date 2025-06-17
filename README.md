@@ -40,6 +40,11 @@ caso 2:
 ### Modulo del Producto:
 ![ProductModule](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/modulo_producto.png)
 
+### Diagrama de secuencias:
+![secuence](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/diagrama%20de%20secuenciaa.png)
+
+### Diagrama de estados:
+![states](https://github.com/JosBenites23/ProyectoIs/blob/main/Diagramas%20UML%20Proyecto/diagrama%20de%20estado.png)
 
 ## 🚀 Estructura de carpetas
 
