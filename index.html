@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mi Hacienda</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <header class="navbar">
+    <div class="logo">
+  <img src="img/logo.jpeg" alt="Logo La Hacienda">
+</div>
+    <nav>
+      <ul>
+        <li><a class="btn" href="#">Productos</a></li>
+        <li><a class="btn" href="#">Nosotros</a></li>
+        <li><a class="btn" href="#">Contacto</a></li>
+        <li><a class="btn btn-outline" href="login.html">Sign in</a></li>
+        <li><a href="register.html" class="btn" href="#">Register</a></li>
+
+      </ul>
+    </nav>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1>PRODUCTOS FRESCOS DIRECTO A SU HOGAR</h1>
+    
+      <!--<a href="#" class="btn">Productos</a>-->
+    </div>
+  </section>
+
+  <!-- SECCIÓN PRODUCTOS -->
+  <section class="productos">
+  <h2 class="productos-titulo">Nuestros Productos</h2>
+  <div class="carousel-container">
+    <div class="carousel-track" id="carouselTrack">
+
+    <div class="carousel-track">
+      <img src="img/1.jpeg" alt="Producto 1" class="carousel-img">
+      <img src="img/2.jpeg" alt="Producto 2" class="carousel-img">
+      <img src="img/3.jpeg" alt="Producto 3" class="carousel-img">
+      <img src="img/4.jpeg" alt="Producto 4" class="carousel-img">
+      <img src="img/5.jpeg" alt="Producto 5" class="carousel-img">
+      <img src="img/6.jpeg" alt="Producto 6" class="carousel-img">
+      <img src="img/7.jpeg" alt="Producto 7" class="carousel-img">
+      <img src="img/8.jpeg" alt="Producto 8" class="carousel-img">
+
+    </div>
+
+  </div>
+</section>
+
+
+  <footer class="footer">
+  <div class="footer-container">
+
+    <div class="footer-section logo-section">
+      <img src="img/logo.jpeg" alt="Logo" class="footer-logo" />
+    </div>
+
+    <div class="footer-section social-section">
+      <h4>Síguenos</h4>
+      <div class="social-icons">
+        <a href="#"><img src="img/FB.png" alt="Facebook" /></a>
+        <a href="#"><img src="img/IG.jpg" alt="Instagram" /></a>
+        <a href="#"><img src="img/X.png" alt="Twitter" /></a>
+      </div>
+    </div>
+
+    <div class="footer-section contact-section">
+      <h4>Contáctanos</h4>
+      <p>📞 +593 987 654 321</p>
+      <p>📧 info@lahacienda.com</p>
+      <p>📍 Calle Ficticia 123, Quito, Ecuador</p>
+    </div>
+
+  </div>
+
+  <div class="footer-bottom">
+    <p>&copy; 2025 La Hacienda. Todos los derechos reservados.</p>
+  </div>
+</footer>
+
+
+
+<script>
+  const track = document.getElementById('carouselTrack');
+  const images = document.querySelectorAll('.carousel-img');
+  const imgWidth = 200 + 15; // ancho + margen
+  let position = 0;
+
+  function autoSlide() {
+    const visibleCount = Math.floor(track.parentElement.offsetWidth / imgWidth);
+    const maxPosition = images.length - visibleCount;
+
+    position++;
+
+    if (position > maxPosition) {
+      position = 0; // vuelve al inicio
+    }
+
+    track.style.transform = `translateX(-${position * imgWidth}px)`;
+  }
+
+  // Ejecutar cada 3 segundos
+  setInterval(autoSlide, 3000);
+</script>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
