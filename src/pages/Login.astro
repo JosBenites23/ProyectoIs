@@ -1,0 +1,20 @@
+---
+import Layout from "../layouts/Layout.astro"
+---
+
+<Layout>
+    <section class="text-gray-200 min-h-screen w-full flex flex-col items-center justify-center pt-10 mt-20 bg-cover bg-[url('/hombre-trabajando.jpg')] bg-center bg-no-repeat bg-fixed">
+        <div class="bg-[#F1E6DC] shadow-md rounded-2xl w-72 h-72 flex flex-col items-center justify-center">
+            <h2 class="text-2xl font-bold text-[#9F6E43] py-5 px-10">Iniciar Sesión</h2>
+            <form id="loginForm" class="flex flex-col items-center justify-center w-full h-auto">
+                <input id="username" type="text" placeholder="Usuario" class="border-2 border-gray-200 rounded-md p-2 mb-4 text-gray-800 bg-white" required/>
+                <input id="password" type="password" placeholder="Contraseña" class="border-2 border-gray-200 rounded-md p-2 mb-4 text-gray-800 bg-white" required/>
+                <button type="submit" class="bg-[#9F6E43] text-[#F1E6DC] font-bold py-2 px-4 rounded-md hover:contrast-200 transition duration-300 cursor-pointer">Iniciar Sesión</button>
+            </form>
+        </div>
+    
+    </section>
+</Layout>
+<script>
+
+</script>
