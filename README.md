@@ -61,7 +61,7 @@ Aqui se muestra la estructura de carpetas del proyecto:
 │       └── index.astro
 └── package.json
 ```
-
+b
 <!-- ## 🧞 Commandos utilizados
 
 All commands are run from the root of the project, from a terminal:
